@@ -19,13 +19,13 @@ A web or desktop application that monitors, analyzes, and predicts air pollution
 
 ## Live Demo  
 
-![Prediction](screenshots/prediction_demo.png) 
+![Prediction](screenshots/home_page.mp4) 
 
 ---
 
 ##  App Preview  
 
-![Home Page](screenshots/home_page.png)  
+![Home Page](screenshots/page.png)  
 
 
 ---
