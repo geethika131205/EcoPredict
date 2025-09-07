@@ -1,0 +1,36 @@
+﻿StationId,City,Area,Latitude,Longitude
+1,Delhi,Connaught Place,28.6328,77.2197
+2,Delhi,Karol Bagh,28.6519,77.1900
+3,Delhi,Shahdara,28.6692,77.2700
+4,Delhi,South Delhi,28.5244,77.2046
+5,Delhi,North Delhi,28.7041,77.1025
+6,Mumbai,Andheri,19.1190,72.8467
+7,Mumbai,Bandra,19.0551,72.8400
+8,Mumbai,Colaba,18.9218,72.8336
+9,Mumbai,Dadar,19.0180,72.8446
+10,Mumbai,Mahim,19.0266,72.8350
+11,Bangalore,MG Road,12.9740,77.6067
+12,Bangalore,Whitefield,12.9698,77.7500
+13,Bangalore,Electronic City,12.8416,77.6611
+14,Bangalore,Indiranagar,12.9719,77.6412
+15,Bangalore,Jayanagar,12.9352,77.6101
+16,Chennai,Anna Nagar,13.0958,80.2100
+17,Chennai,Adyar,13.0090,80.2570
+18,Chennai,T Nagar,13.0827,80.2707
+19,Chennai,Velachery,12.9916,80.2278
+20,Chennai,Guindy,13.0148,80.2086
+21,Kolkata,Park Street,22.5676,88.3510
+22,Kolkata,Behala,22.4980,88.2910
+23,Kolkata,New Town,22.5756,88.5010
+24,Kolkata,Howrah,22.5958,88.2636
+25,Kolkata,Salt Lake,22.5762,88.4345
+26,Hyderabad,Banjara Hills,17.4067,78.4483
+27,Hyderabad,Gachibowli,17.4397,78.3480
+28,Hyderabad,Secunderabad,17.4399,78.4983
+29,Hyderabad,Somajiguda,17.4059,78.4687
+30,Hyderabad,Hitech City,17.4454,78.3720
+31,Pune,Kothrud,18.5060,73.8110
+32,Pune,Shivaji Nagar,18.5300,73.8520
+33,Pune,Hadapsar,18.5020,73.9220
+34,Pune,Deccan,18.5204,73.8567
+35,Pune,Baner,18.5690,73.7716
