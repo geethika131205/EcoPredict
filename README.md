@@ -1,2 +1,2 @@
-# SmartAir
-A smart environmental monitoring system that collects pollution data and uses machine learning models to predict air quality levels, suggest preventive measures, and visualize pollution trends in real-time.
+# EcoPredict
+A web or desktop application that monitors, analyzes, and predicts air pollution using publicly available datasets and machine learning. Users can visualize trends, forecast future AQI, and get recommendations
