@@ -2,34 +2,35 @@
 A web or desktop application that monitors, analyzes, and predicts air pollution using publicly available datasets and machine learning. Users can visualize trends, forecast future AQI, and get recommendations
 # 🌍 EcoPredict – City Pollution Heatmap & Analysis  
 
-✨ An interactive, modern web app for exploring, analyzing, and visualizing **Air Quality Index (AQI)** across Indian cities. ✨  
+ An interactive, modern web app for exploring, analyzing, and visualizing **Air Quality Index (AQI)** across Indian cities. ✨  
 
 ---
 
-## 🚀 Features  
+##  Features  
 
-📊 **City-wise Heatmaps** → Visualize AQI across monitoring stations within a city  
-🧹 **Preprocessing** → Handles missing values and merges station metadata automatically  
-🤖 **Modeling (Future Ready)** → Extendable to Random Forest, Logistic Regression, or XGBoost  
-🏆 **Evaluation (Planned)** → Add confusion matrices, feature importances, and AQI prediction reports  
-🔮 **Prediction (Planned)** → Train models to predict AQI category for future dates  
-🎨 **Modern UI** → Streamlit-powered, clean, and responsive dashboard  
-
----
-
-## 🎥 Live Demo  
-
-🚀 Coming Soon – Deployed via **Streamlit Cloud**  
+ **City-wise Heatmaps** → Visualize AQI across monitoring stations within a city  
+ **Preprocessing** → Handles missing values and merges station metadata automatically  
+ **Modeling (Future Ready)** → Extendable to Random Forest, Logistic Regression, or XGBoost  
+ **Evaluation (Planned)** → Add confusion matrices, feature importances, and AQI prediction reports  
+ **Prediction (Planned)** → Train models to predict AQI category for future dates  
+ **Modern UI** → Streamlit-powered, clean, and responsive dashboard  
 
 ---
 
-## 🌈 App Preview  
+## Live Demo  
 
-*(Add screenshots of your app here once it’s running)*  
+![Prediction](screenshots/prediction_demo.png) 
 
 ---
 
-## ⚡ Quick Start  
+##  App Preview  
+
+![Home Page](screenshots/home_page.png)  
+
+
+---
+
+##  Quick Start  
 
 ```bash
 # 1. Clone the repository
