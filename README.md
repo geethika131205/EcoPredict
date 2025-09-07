@@ -25,7 +25,7 @@ A web or desktop application that monitors, analyzes, and predicts air pollution
 
 ##  App Preview  
 
-![Home Page](screenshots/page.png)  
+![Home Page](screenshots/page.gif)  
 
 
 ---
